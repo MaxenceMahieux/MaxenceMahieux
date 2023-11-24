@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Maxence and I'm a 19, from France.</p>
+<p align="center">My name is Maxence and I'm a 19, from France.</p>
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxenceMahieux&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MaxenceMahieux" height="192px"/><p/>
 
 ###
 
