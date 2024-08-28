@@ -5,7 +5,7 @@
 ## My socials
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/MaxenceMahieux)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](ww.linkedin.com/in/maxence-mahieux)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/maxence-mahieux)
 ## Knowlegdes
 
 ### Languages
