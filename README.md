@@ -38,6 +38,6 @@
 
 ## Some statistics
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=MaxenceMahieux&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=5A9&text_color=D3D3D3&title_color=5A9)
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=MaxenceMahieux&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=6AA6F8&text_color=CCCCCC&title_color=8A8A8A)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxenceMahieux&hide_border=true&locale=fr&background=0d1117&ring=5A9&stroke=5A9&fire=5A9&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxenceMahieux&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF&currStreakNum=FFF)](https://git.io/streak-stats)
