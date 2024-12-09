@@ -1,6 +1,6 @@
 # Welcome, I'm Maxence 👋
 
-- 📫 Contact me on <https://maxmhx.fr>
+- 📫 Contact me on <https://maxmhx.com>
 
 ## My socials
 
